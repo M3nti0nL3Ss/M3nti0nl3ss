@@ -17,7 +17,7 @@ C#          19 mins             █░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <a href="#stats">
-<img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=PranavGPR&layout=compact" />
+<img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=M3nti0nl3ss&layout=compact" />
 </a>
 
 [LinkedIn]: https://www.linkedin.com/in/ayoub-hebbaj/
