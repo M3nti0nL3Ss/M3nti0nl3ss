@@ -14,10 +14,7 @@ Shell       24 mins             ██░░░░░░░░░░░░░░
 JAVA        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 C#          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
 ```
-<!--END_SECTION:waka-->
-<a href="#stats">
-<img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=M3nti0nl3ss&layout=compact" />
-</a>
+
 
 [LinkedIn]: https://www.linkedin.com/in/ayoub-hebbaj/
 [Instagram]: https://instagram.com/ahebbaj
