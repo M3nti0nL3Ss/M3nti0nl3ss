@@ -1,8 +1,6 @@
 ### 👋 Hello World !
   
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats   
-![M3nti0nl3ss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M3nti0nl3ss&hide=["stars"]&show_icons=true)
 
 📊 **This week I spent my time on**
 
