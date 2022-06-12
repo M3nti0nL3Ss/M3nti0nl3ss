@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3nti0nl3ss" alt="m3nti0nl3ss" /></a> </p>
 
-- 🔭 I’m currently working on [maharat.ma](http://www.maharat.ma)
+- 🔭 I’m currently working on [maharat.ma](http://www.maharat.ma)'s platform
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
